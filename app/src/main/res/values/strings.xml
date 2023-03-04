@@ -1,7 +1,9 @@
 <resources>
-    <string name="app_name">Hello Android</string>
-    <string name="to">To</string>
-    <string name="subject">Subject</string>
-    <string name="message">Message</string>
-    <string name="send">Send</string>
+    <string-array name = "Programs">
+    <item>Android</item>
+    <item>Java</item>
+    <item>Php</item>
+    <item>Python</item>
+    <item>C#</item>
+    <item>Kotlin</item>
 </resources>
