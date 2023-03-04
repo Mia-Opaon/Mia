@@ -1,7 +1,25 @@
 <resources>
-    <string-array name = "Programs"></string-array>
-    <string name="to">To</string>
-    <string name="subject">Subject</string>
-    <string name="message">Message</string>
-    <string name="send">Send</string>
+    <string name="app_name">My Application</string>
+    <string name="reminder">reminder</string>
+    <string name="done">done</string>
+    <string name="times">times</string>
+    <string name="search_button">SEARCH</string>
+    <string name="ninja_text">done</string>
+    <string name="pirate_text">Pirates</string>
+    <string name="cats_text">Pirates</string>
+    <string name="dogs_text">Pirates</string>
+    <string name="Toggle_text">Pirates</string>
+    <string name="Toggle_button">Pirates</string>
+
+    <string name="characters">
+        <item>Select a robot:</item>
+        <item>R2-D2</item>
+        <item>BB-8</item>
+        <item>C-3P0</item>
+        <item>Sap</item>
+        <item>Ruby</item>
+        <item>Python</item>
+        <item>Optimus Prime</item>
+    </string>
+
 </resources>
