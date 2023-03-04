@@ -1,9 +1,9 @@
 <resources>
-    <string-array name = "Programs">
-    <item>Android</item>
-    <item>Java</item>
-    <item>Php</item>
-    <item>Python</item>
-    <item>C#</item>
-    <item>Kotlin</item>
+    <string-array name="Programs"></string-array>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
